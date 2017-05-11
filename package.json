@@ -1,0 +1,27 @@
+{
+  "name": "batch-array",
+  "description": "A simple library to handle batching up an array before calling a function with it.",
+  "version": "1.0.0",
+  "author": "Giancarlo Anemone",
+  "keywords": [
+    "batch",
+    "array"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganemone/batch-array"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "private": true
+}
