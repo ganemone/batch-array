@@ -22,6 +22,5 @@
   },
   "scripts": {
     "test": "node test/index.js"
-  },
-  "private": true
+  }
 }
